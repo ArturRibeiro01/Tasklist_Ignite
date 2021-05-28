@@ -63,7 +63,6 @@ Nele é possivel cadastrar tarefas, apagar tarefas e marcar tarefas como lidas.
 
 ## 🎨 Layout
 
-![Imagem1](https://github.com/ArturRibeiro01/Tasklist_Ignite/blob/main/React_01.PNG?raw=true)
 ---
 
 <br>
