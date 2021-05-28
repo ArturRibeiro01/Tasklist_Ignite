@@ -50,19 +50,20 @@ Esse desafio serviu para fixação dos maiores conceitos do React.
 
 Esse projeto utiliza um Template criado pela RocketSeat para facilitar a utilização
 
-[Link do Notion do Desafio]https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d#3ec3316e593b4933881734d8dad2b7c7
+[Link do Notion do Desafio] - https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d#3ec3316e593b4933881734d8dad2b7c7
 
+<br>
+---
 
 ## 👨🏿‍💻 Descrição
-
+📃 - É um site modelo simples para lista de taferas utilizando React. <br>
+Nele é possivel cadastrar tarefas, apagar tarefas e marcar tarefas como lidas.
 
 ---
 
 ## 🎨 Layout
 
-
-![teste](https://github.com/ArturRibeiro01/Le-Scone_sass/blob/main/img/readme_images/Banner_readme.png)
-
+![Imagem1](https://github.com/ArturRibeiro01/Tasklist_Ignite/blob/main/React_01.PNG?raw=true)
 ---
 
 <br>
