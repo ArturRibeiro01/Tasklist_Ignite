@@ -61,6 +61,8 @@ Esse projeto utiliza um Template criado pela RocketSeat para facilitar a utiliza
 ## 🎨 Layout
 
 
+![teste](https://github.com/ArturRibeiro01/Le-Scone_sass/blob/main/img/readme_images/Banner_readme.png)
+
 ---
 
 <br>
@@ -68,4 +70,18 @@ Esse projeto utiliza um Template criado pela RocketSeat para facilitar a utiliza
 ### 🛠 Tecnologias
 ---
 As seguintes ferramentas foram usadas na construção do projeto:
+
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Typescript](https://img.shields.io/badge/-Typescript-%231572B6?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=%231572B6&color=%231572B6)
+
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+
+
+![Webpack](https://img.shields.io/badge/-Webpack-ffffff?style=flat-square&logo=web-pack)
+![Yarn](https://img.shields.io/badge/-Yarn-ffffff?style=flat-square&logo=yarn)
+![cmder](https://img.shields.io/badge/-cmder-181717?style=flat-square)
+
+
 
